@@ -1,5 +1,6 @@
 Installing
 
+- Install the flatpak version of XivLauncher
 - Download this repository to the directory /home/%USER%/.local/share/Steam/compatibilitytools.d/XivLauncher
 - Restart steam
 - In steam, select 'Xiv Launcher' as the compatibility tool for Final Fantasy XIV.
