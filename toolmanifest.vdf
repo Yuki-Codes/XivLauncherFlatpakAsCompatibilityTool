@@ -1,0 +1,7 @@
+"manifest"
+{
+  "version" "1"
+  "commandline" "/xivlauncher.sh"
+  "use_sessions" "0"
+  "use_tool_subprocess_reaper" "1"
+}
